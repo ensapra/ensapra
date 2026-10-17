@@ -42,13 +42,4 @@
 
 More experiments are on the [repositories page](https://github.com/ensapra?tab=repositories), including [borderless-tab](https://github.com/ensapra/borderless-tab), [Rope-Physics](https://github.com/ensapra/Rope-Physics), and [AutoBeat](https://github.com/ensapra/AutoBeat).
 
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/ensapra"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ensapra&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ensapra's GitHub stats" /></a>
-  <a href="https://github.com/ensapra"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensapra&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" /></a>
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensapra&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
 <div align="center"><sub>Thanks for stopping by. Feel free to explore or say hi.</sub></div>
